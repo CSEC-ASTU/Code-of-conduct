@@ -10,7 +10,7 @@
 - Use **headphones/ earphones** when consuming any media content
 - **Report** any minor or major violations of The Code of Conduct
 - Keep your voice low so as not to disturb other members
-- Do not create a WIFI Hot spot from your device (report to club official if the Club WIFI is not working)
+- Do not create a WIFI Hotspot from your device (report to club official if the Club WIFI is not working)
 - Do not tamper with club property (Desktops, router, all kind of cables, desks, chairs, books, whiteboard and markers, projector screen, dividers...)
 - Report found/ lost items to a club official
 - Keep the door closed at all times
