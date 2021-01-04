@@ -12,7 +12,7 @@
 - Keep your voice low so as not to disturb other members
 - Do not create a WIFI Hotspot from your device (report to club official if the Club WIFI is not working)
 - Do not tamper with club property (Desktops, router, all kind of cables, desks, chairs, books, whiteboard and markers, projector screen, dividers...)
-- Report found/ lost items to a club official
+- Report lost items to a club official
 - Keep the door closed at all times
 
 ## Competitive Programming Contest Rules
